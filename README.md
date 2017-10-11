@@ -9,17 +9,29 @@ If you like this Project, Please use it and email me at zhaoshuo100@foxmail.com
 Thank you
 
  word1.0 made by Zhao Shuo on 2015-11-27
+ 
  word2.0 updated by Zhao Shuo on 2015-11-29
+ 
  word2.5 updated by Zhao Shuo on 2016-02-12
+ 
  word3.0 updated by Zhao Shuo on 2016-02-22
+ 
  word3.5 updated by Zhao Shuo on 2016-03-12
+ 
  word3.6 updated by Zhao Shuo on 2016-03-19
+ 
  word4.0 updated by Zhao Shuo on 2016-08-09
+ 
  word4.1 updated by Zhao Shuo on 2016-08-19
+ 
  word4.2 updated by Zhao Shuo on 2016-08-22
+ 
  word4.3 updated by Zhao Shuo on 2016-08-26
+ 
  word4.5 updated by Zhao Shuo on 2017-01-22
+ 
  word4.6 updated by Zhao Shuo on 2017-02-08
+
 
  赵硕制作 qq：2090737490
 # 考单词程序4.6
