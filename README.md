@@ -6,7 +6,7 @@ The codes are in a mess...
 I decide to Open Source right now
 If you like this Project, Please use it and email me at zhaoshuo100@foxmail.com
 
-Thank you
+Thank you very much
 
  word1.0 made by Zhao Shuo on 2015-11-27
  
